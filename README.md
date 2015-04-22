@@ -1,0 +1,1 @@
+Test Django project for Python in Astronomy
